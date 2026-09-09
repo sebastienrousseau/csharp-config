@@ -1,0 +1,38 @@
+[
+  {
+    "date": "",
+    "description": "How to install and set up @sebastienrousseau/csharp-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Installation — @sebastienrousseau/csharp-config",
+    "url": "https://sebastienrousseau.com/csharp-config/installation/",
+    "wordCount": 45
+  },
+  {
+    "date": "",
+    "description": "Model Context Protocol configuration for @sebastienrousseau/csharp-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Model Context Protocol (MCP) — @sebastienrousseau/csharp-config",
+    "url": "https://sebastienrousseau.com/csharp-config/mcp/",
+    "wordCount": 15
+  },
+  {
+    "date": "",
+    "description": "Reference specifications and options for @sebastienrousseau/csharp-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Reference — @sebastienrousseau/csharp-config",
+    "url": "https://sebastienrousseau.com/csharp-config/reference/",
+    "wordCount": 30
+  },
+  {
+    "date": "",
+    "description": "How to use and configure @sebastienrousseau/csharp-config.",
+    "locale": "en-GB",
+    "tags": [],
+    "title": "Usage — @sebastienrousseau/csharp-config",
+    "url": "https://sebastienrousseau.com/csharp-config/usage/",
+    "wordCount": 30
+  }
+]
