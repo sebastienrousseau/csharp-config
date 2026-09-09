@@ -5,7 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
-Shareable C# / .NET configuration providing standardized Roslyn analyzer, EditorConfig, and OmniSharp rules adhering to modern 2026 standards.
+Shareable C# and .NET configuration standards providing Roslyn analyzers, EditorConfig, and OmniSharp rules.
 
 ---
 
@@ -18,3 +18,15 @@ Shareable C# / .NET configuration providing standardized Roslyn analyzer, Editor
 | `index.d.ts` | TypeScript | TypeScript >= 5.0 | Type declarations |
 
 ---
+
+## Feature & Property Reference
+
+### 1. Directory.Build.props
+- **Description**: Centralized MSBuild properties enabling strict nullable checking, treat warnings as errors, and latest analysis level.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
+
+### 2. omnisharp.json
+- **Description**: Editor and language server configuration for OmniSharp and VS Code C# Dev Kit.
+- **Scope**: Production & Development
+- **Status**: Stable & Active
