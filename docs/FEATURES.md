@@ -19,7 +19,9 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. Directory.Build.props
+
 Centralized MSBuild properties enabling strict nullable checking, treat warnings as errors, and latest analysis level. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. omnisharp.json
+
 Editor and language server configuration for OmniSharp and VS Code C# Dev Kit. Designed to guarantee deterministic behavior across all development and continuous integration environments.
