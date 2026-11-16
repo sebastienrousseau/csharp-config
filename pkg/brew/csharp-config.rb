@@ -6,7 +6,7 @@
 class CsharpConfig < Formula
   desc "Shareable C# / .NET configuration providing standardized Roslyn analyzer, EditorConfig, and OmniSharp rules adhering to modern 2026 standards"
   homepage "https://github.com/sebastienrousseau/csharp-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/csharp-config/-/csharp-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/csharp-config/-/csharp-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
